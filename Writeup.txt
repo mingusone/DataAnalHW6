@@ -1,0 +1,5 @@
+1) Maximum temperature peaks at around 10 latitude. Which is indeed surprising that it doesn't happen at the perfect equator. There are a few outliers from 20-40 latitude which is unexpected but probably desert terrain. There's something else going on here that can't be seen by just looking at temperature vs latitude.
+
+2) Humidity seems to be pretty high around cities. Note that since we only looked at cities and not random patches of earth, it would seem to indicate that humans prefer to establish cities with higher humidity.
+
+3) Same as above, cloudiness seems to be all or nothing. It's either really cloudy or not cloudy at all. Do humans prefer to establish settlements at these places? Or is that just how weather works in general?
